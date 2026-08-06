@@ -4,11 +4,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/AarnaGandhi06/DAA-assignment/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AarnaGandhi06/DAA-assignment/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/AarnaGandhi06/DAA-assignment/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/AarnaGandhi06/DAA-assignment/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AarnaGandhi06/DAA-assignment/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/AarnaGandhi06/DAA-assignment/tree/master/0912-sort-an-array) |
 ## Sorting
@@ -41,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/AarnaGandhi06/DAA-assignment/tree/master/0215-kth-largest-element-in-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/AarnaGandhi06/DAA-assignment/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
