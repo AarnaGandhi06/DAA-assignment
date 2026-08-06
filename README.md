@@ -4,12 +4,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AarnaGandhi06/DAA-assignment/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/AarnaGandhi06/DAA-assignment/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AarnaGandhi06/DAA-assignment/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/AarnaGandhi06/DAA-assignment/tree/master/0912-sort-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AarnaGandhi06/DAA-assignment/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/AarnaGandhi06/DAA-assignment/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AarnaGandhi06/DAA-assignment/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/AarnaGandhi06/DAA-assignment/tree/master/0912-sort-an-array) |
@@ -47,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/AarnaGandhi06/DAA-assignment/tree/master/0053-maximum-subarray) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AarnaGandhi06/DAA-assignment/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
