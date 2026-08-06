@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/AarnaGandhi06/DAA-assignment/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/AarnaGandhi06/DAA-assignment/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/AarnaGandhi06/DAA-assignment/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/AarnaGandhi06/DAA-assignment/tree/master/0074-search-a-2d-matrix) |
 | [0215-kth-largest-element-in-an-array](https://github.com/AarnaGandhi06/DAA-assignment/tree/master/0215-kth-largest-element-in-an-array) |
 | [0704-binary-search](https://github.com/AarnaGandhi06/DAA-assignment/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/AarnaGandhi06/DAA-assignment/tree/master/0912-sort-an-array) |
@@ -56,5 +57,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AarnaGandhi06/DAA-assignment/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/AarnaGandhi06/DAA-assignment/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/AarnaGandhi06/DAA-assignment/tree/master/0074-search-a-2d-matrix) |
 | [0704-binary-search](https://github.com/AarnaGandhi06/DAA-assignment/tree/master/0704-binary-search) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/AarnaGandhi06/DAA-assignment/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
